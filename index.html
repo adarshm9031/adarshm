@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<style>
+	#latest-repos-container h2 {
+		margin-bottom: 2rem;
+	}
+
+	#latest-repos h4 {
+		margin-bottom: 0.5rem;
+	}
+
+	.sponsors {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.sponsors a:not(:first-child) {
+		margin-left: 10px;
+	}
+</style>
+<script type="module">
+// Temp redirect for old URL
+if (location.hash === '#apps') {
+	location.hash = '';
+	location.pathname = '/apps';
+}
+</script>
+
+<section class="hero is-fullheight is-default">
+	<div class="hero-body">
+		<div id="info-container" class="container has-text-centered">
+			<div class="columns is-vcentered">
+				<div class="column is-two-thirds is-centered has-nice-link">
+					<div itemscope itemtype="http://schema.org/Person">
+						<img id="profile-pic" src="ishan.jpg" width="160" height="160" itemprop="image">
+						<h1 class="title is-2" itemprop="name">Ishan Kumar</h1>
+						<h2 class="subtitle is-4" itemprop="description">Computer Arch. and ML enthusiast </h2>
+						<p> Avid reddit user, Learning , Sharing &amp; writing on Quora.</p>
+					</div>
+					<br>
+					<p class="has-text-centered">
+						<a class="button is-large is-white" href="https://www.linkedin.com/in/ishan-kumar-6386428a/">
+							<span class="icon">
+								<i class="fa "></i>
+							</span>
+							<span>Linkedin</span>
+						</a>
+						<a class="button is-large is-white" href="https://github.com/ishank4">
+							<span class="icon">
+								<i class="fa fa-github"></i>
+							</span>
+							<span>Code</span>
+						</a>
+						<a class="button is-large is-white" href="https://www.facebook.com/ishan.kumar.5283">
+							<span class="icon">
+								<i class=" "></i>
+							</span>
+							<span>Facebook</span>
+						</a>
+					</p>
+					<br>
+					<a href="{% link thanks.md %}">Thanks to all my family and friends. !</a>
+					<br>
+					<br>
+					<hr id="latest-blog-post-separator">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="hero-foot">
+		<div class="container">
+			<div class="tabs is-centered">
+				<ul>
+					<li>
+						<i id="scroll-hint" class="fa fa-caret-down" aria-hidden="true"></i>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>

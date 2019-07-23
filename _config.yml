@@ -1,0 +1,27 @@
+title: Ishan Kumar
+description: Computer Arch. and ML enthusiast
+baseurl: ''
+url: https://ishankumar.com
+permalink: slug
+collections:
+  apps:
+    output: true
+    permalink: /:title
+    include: app-assets
+defaults:
+  - scope:
+      path: ''
+      type: 'apps'
+    values:
+      layout: 'app'
+      type: 'app'
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+  - license
+  - CNAME
+  - screenshot.jpg
+plugins:
+  - jekyll-sitemap
+strict_front_matter: true
