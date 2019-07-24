@@ -21,16 +21,16 @@ title: Education
 }
 </style>
 
-<img id="self-photo" src="/ishan.jpg" align="right">
+<img id="self-photo" src="/adarsh.jpg" align="right">
 
 # Education 📕  
-Currenlty pursuing master's from University.
+Currenlty pursuing master's from University of Wisconsin (2019-21).
 
 
 ### Graduate School
-- Pursuing Master of Science in XYZ from ABC 
+- Pursuing Master of Science in Computer Archtecture and Machine Learning 
 - On going courses 
 
 ### Undergraduate School
-- Pursued Bachelor of Science in XYZ from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
-- Courses undertaken abc,xyz
+- Pursued Bachelor of Science in Electrical and Electronics Engineering from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
+- Courses undertaken 
