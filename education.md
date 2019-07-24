@@ -21,7 +21,7 @@ title: Education
 }
 </style>
 
-<img id="self-photo" src="/adarsh.jpg" align="right">
+<img id="self-photo" src="/college.jpg" align="right">
 
 # Education 📕  
 Currenlty pursuing master's from University of Wisconsin (2019-21).
