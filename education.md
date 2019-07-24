@@ -29,7 +29,7 @@ Currenlty pursuing master's from University of Wisconsin (2019-21).
 
 ### Graduate School
 - Pursuing Master of Science in Computer Archtecture and Machine Learning 
-- On going courses:
+- Hello On going courses:
 -- Advanced Computer Architecture
 -- Machine Learning
 
