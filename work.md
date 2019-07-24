@@ -29,10 +29,11 @@ I have worked for [Nvidia](https://www.nvidia.com/en-us/) from 2016 to 2019. I j
 
 ### Key role(s)
 VLSI Physical Design Engineer - II Bengaluru, India
- Accomplished 3 GPU/Mobile chip tapeouts on cutting edge technology
- Implemented (gate level netlist -> GDS) for sub-chiplet of 5+ blocks using EDA tool
- Automation of Placement and Route flow by developing methodologies for optimizing Performance and Area
- Leakage and Dynamic Power optimization based on Activity of nets and routing layer assignment to save Power
+- Accomplished 3 GPU/Mobile chip tapeouts on cutting edge technology.
+- Implemented (gate level netlist -> GDS) for sub-chiplet of 5+ blocks using EDA tool.
+- Automation of Placement and Route flow by developing methodologies for optimizing Performance and Area.
+- Leakage and Dynamic Power optimization based on Activity of nets and routing layer assignment to save Power.
+- Worked on Floorplanning, Power Routing, Clock Tree Synthesis, logic cloning and Timing Closure.
 
 ### Projects worked upon
 - GPU Project 
