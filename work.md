@@ -24,16 +24,16 @@ title: Work Experience
 <img id="self-photo" src="/nvidia.jpg" align="right">
 
 # Work 🏦  
-I have worked for [Nvidia](https://www.nvidia.com/en-us/) from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in Memory Subsystems team. I was then absorbed in the same team and was converted to Full Time Employee. 
+I have worked for [Nvidia](https://www.nvidia.com/en-us/) from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in VLSI PD team. I was then absorbed in the same team and was converted to Full Time Employee. 
 
 
 ### Key role(s)
-- 1) Handling and maintenance of GPU infrastructure that involved running different tests and regressions. 
-- 2) Verification of FBHub a unit in GPU by writing performance related tests. 
-- 3) DRAM architecture related tests for FBPA . 
-- 4) Flair understanding of various memory types HBM/Gddr5/Gddr5x/Sddr4 
-- 5) Working now with 'High Speed Hub' team for functional and performance verification of the unit.
+VLSI Physical Design Engineer - II Bengaluru, India
+ Accomplished 3 GPU/Mobile chip tapeouts on cutting edge technology
+ Implemented (gate level netlist -> GDS) for sub-chiplet of 5+ blocks using EDA tool
+ Automation of Placement and Route flow by developing methodologies for optimizing Performance and Area
+ Leakage and Dynamic Power optimization based on Activity of nets and routing layer assignment to save Power
 
 ### Projects worked upon
 - GPU Project 
-- CPU Project 
+- Tegra Project 
