@@ -36,8 +36,10 @@ Currenlty pursuing master's from University of Wisconsin (2019-21).
 ### Undergraduate School
 - Pursued Bachelor of Science in Electrical and Electronics Engineering from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
 - Courses undertaken:
-- Computer Architecture
-- Analog and Digital VLSI
-- Discreet Mathematics
-- Data Structure and Algorithms
-- Neural Networks and Machine Learning
+	- Computer Architecture
+	- Neural Networks and Machine Learning
+	- Data Structure and Algorithms
+	- Analog and Digital VLSI
+	- Discreet Mathematics
+	- Digital Design
+
