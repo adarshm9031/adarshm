@@ -32,8 +32,7 @@ VLSI Physical Design Engineer - II Bengaluru, India
 - Accomplished 3 GPU/Mobile chip tapeouts on cutting edge technology.
 - Implemented (gate level netlist -> GDS) for sub-chiplet of 5+ blocks using EDA tool.
 - Scripting to aid automation of Placement and Route flow by developing methodologies for optimizing Performance.
-- Leakage and Dynamic Power optimization based on Activity of nets and routing layer assignment to save Power.
-- Worked on Floorplanning, Power Routing, Clock Tree Synthesis, logic cloning and Timing Closure.
+- Worked on Floorplanning, Power Routing, Clock Tree Synthesis, and Timing Closure.
 
 ### Projects worked upon
 - GPU Project 
